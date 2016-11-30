@@ -1,4 +1,4 @@
-# Pandoc with Latex/Xetex + watchdog
+# Pandoc with Latex/Xelatex + watchdog
 
 Pandoc is a great document converter.  Latex/Xetex is a great typesetting
 system.  Unfortunately, installing the above can be tricky.
